@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0% 5% 0% 5%;
+}
+nav img{
+    width: 10%;
+}
+nav ul{
+    justify-content: space-between;
+    padding-top: 2%;
+}
+nav ul li{
+    display: inline;
+    justify-content: space-between;
+    list-style-type: none;
+    padding-left: 10px;
+    font-size: 2vw;
+    color: #132cc4;
+    
+}
+.elevate{
+    background-image: url('../image/elevate.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 30vw;
+}
+.elevate h2{
+    text-align: center;
+    font-size: 5vw;
+    padding-top: 7%;
+    color: #132cc4;
+}
+.elevate p{
+    text-align: center;
+    padding-top: 7%;
+    color: #132cc4;
+    font-size: 2vw;
+}
+.mvb{
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+
+}
+.music{
+    border: none;
+    width: 18%;
+    color: #132cc4;
+}
+.music img{
+    width: 100%;
+}
+.video{
+    border: none;
+    width: 18%;
+    color: #132cc4;
+}
+.video img{
+    width: 100%;
+}
+.book{
+    border: none;
+    width: 18%;
+    color: #132cc4;
+}
+.book img{
+    width: 100%;
+    height: 39%;
+}
+.img {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.mvb div p{
+    padding-left: 11%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    margin-bottom: 25%;
+    font-size: 1vw;
+}
+/* .musicbut{
+    margin-top: 10%;
+    margin-left: 14%;
+    width: 75%;
+    height: 11%;
+    font-size: 2vw;
+    border: none;
+    background-color: #be15bf;
+    color: #ffffff;   
+    border-radius: 70%;
+    font-family: cursive;
+    white-space: nowrap; 
+} */
+.music-but{
+    background-color: #ff69b4;
+    padding: 7% 25% 7% 25%;
+    margin-left: 10%;
+    color: white;
+    text-decoration: none;
+    font-size: 2vw;
+    font-family: cursive;
+    border-radius: 70%;
+}
+.acct-but{
+    background-color: #ff69b4;
+    padding: 1.5% 10% 1.5% 10%;
+    color: white;
+    text-decoration: none;
+    font-size: 2vw;
+    font-family: cursive;
+    border-radius: 70%;
+}
+.sign{
+    padding: 1%;
+    text-align: center;
+    font-size: 2.5vw;
+    margin-bottom: 10%;
+    color: #132cc4;
+}
+.doyou{
+    margin-bottom: 5%;
+}
+.signin{
+    margin-top: 5%;
+    text-align: center;
+    width: 30%;
+    height: 11%;
+    font-size: 2vw;
+    border: none;
+    background-color: #be15bf;
+    color: #ffffff;   
+    border-radius: 70%;
+    font-family: cursive;
+}
+footer{
+    display: flex;
+    margin-top: 8%;
+    padding: 5%;
+    background-color: #2ae7fa;
+}
+.ifot{
+    width: 15%;   
+}
+footer div p{
+    padding-top: 1%;
+    font-size: 1vw;
+    color: #132cc4;
+}
+.fb{
+    padding-top: 2%;
+}
+.opt{
+    padding-top: 25%;
+}
+.alopt{
+    
+}

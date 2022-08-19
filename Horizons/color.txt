@@ -1,0 +1,14 @@
+color: #be15bf
+    color: #132cc4;  
+#2ae7fa:bg   
+
+<a onclick="myFunction()" class="dropdown">Menu</a>
+                <div class="dropdown-content">
+                        <a href="music.html" class="music" style="background-color: #ff69b4; color: white;">Music</a>
+                        <div class="submusic">
+                            <a href="">Most Played</a>
+                            <a href="">Most Downloaded</a>
+                            <a href="">Newly Added</a>
+                            <a href="">Top Searches</a>
+                            <a href="">Genres</a>
+                        </div>                                                                                                                                                           
